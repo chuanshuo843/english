@@ -1,0 +1,36 @@
+{
+    "title": "PHP面试题集合",
+    "author": "是潘达呀",
+    "description": "PHP面试题集合",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "Blog": "https://chuanshuo843.github.io"
+        }
+    },
+    "plugins": [
+        "-lunr", 
+        "-search",
+        "highlight",
+        "-sharing",
+        "code",
+        "splitter",
+        "search-pro",
+        "pageview-count",
+        "auto-scroll-table",
+        "flexible-alerts",
+        "emphasize"
+    ],
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": false
+        }
+    }
+}
