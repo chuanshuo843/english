@@ -3,6 +3,8 @@
 ## 简介
 * [项目简介](README.md)
 
-## 数据库
-* [unit.1](unit_1.md)
+## 课程
+* [unit.1](unit/unit_1.md)
 
+## 附录
+* [不规则动词](appendix/appendix_2.md)
