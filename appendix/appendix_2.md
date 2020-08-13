@@ -1,7 +1,7 @@
 # 不规则动词
 
 ## AAA型
-<!--sec data-title="2H（hit, hurt)花钱(cost)让(let)3S(set,shut,spread)放(put)（下）读书(read)（去）切割（cut)" data-id="section0" data-show=true ces-->
+<!--sec data-title="2H花钱让3S放下读书去切割" data-id="section0" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
 | hit  | hit | hit | 撞，击((用手或器具) 击，打; 碰撞; 撞击(造成损伤); 使(身体部位)碰上(某物)) |<audio id="audio" controls="controls" preload="none"><source src="audio/appendixes-audio-2/2.4_5_elem_murph.mp3"></audio> |
@@ -47,183 +47,131 @@
 <!--endsec-->
 
 
-<!--sec data-title="想带来买（个）打架，无a则o, ought" data-id="section4" data-show=true ces-->
+<!--sec data-title="带来(了钱)想买(个东西去)打架，无a则o, ought" data-id="section4" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| teach  | taught | taught | 教 | |
-|  catch  | caught | caught |  捉,抓 | |
+| bring  | brought | brought | 带来 | |
+|  think  | thought | thought |  思考 | |
+|  buy  | bought | bought |  买 | |
+|  fight  | fought | fought |  打架 | |
 <!--endsec-->
 
+<!--sec data-title="加速射击遇见(了)喂牛领导，“过去时&分词”后一个元音字母去掉" data-id="section5" data-show=true ces-->
+>[!TIP]
+>元音字母分别为:[a,e,i,o,u]
+
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| speed  | sped | sped | 加速 | |
+| shoot  | shot | shot | 射击 | |
+| meet  | met | met | 遇见 | |
+| feed  | fed | fed | 喂养，饲养 | |
+| lead  | lead | lead | 带路，领路 | |
+<!--endsec-->
+
+<!--sec data-title="坐下临时照看（想）吐痰，“过分”i变a" data-id="section6" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| sit  | sat | sat | 坐 | |
+| babysit  | babysat | babysat | 代人临时照顾婴孩 | |
+| spit  | spat | spat | 吐痰 | |
+<!--endsec-->
+
+<!--sec data-title="挖刺（粘贴）悬挂，原形中间的元音字母变成u" data-id="section7" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| dig  | dug | dug | 挖 | |
+| stick  | stuck | stuck | 粘贴，将……刺入 | |
+| hang  | hung | hung | 悬挂 | |
+<!--endsec-->
+
+<!--sec data-title="我觉得，卫生靠平时保持，睡觉时就不要想着扫地了(eep,eel中间去个e末尾加个t)" data-id="section8" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| feel  | felt | felt | 觉 | |
+| keep  | kept | kept | 保持 | |
+| sleep | slept | slept | 睡 | |
+| sweep  | swept | swept | 扫 | |
+<!--endsec-->
+
+<!--sec data-title="我花钱建造的房子可以借给你不能送给你,“过分”都是原形末尾的d变t" data-id="section9" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| spend  | spent | spent | 花费 | |
+| build  | built | built | 造 | |
+| lend | lent | lent | 借 | |
+| send  | sent | sent | 邮寄，发送 | |
+<!--endsec-->
+
+<!--sec data-title="丢失闻拼写 原形末尾的字母换成t" data-id="section10" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| lose  | lost | lost | 丢失 | |
+| smell  | smelt | smelt | 嗅 | |
+| spell | spelt | spelt | 拼写 | |
+<!--endsec-->
+
+<!--sec data-title="‘燃烧’意思是什么？我没有学会，我做梦了，该怎么对付(“过分”原形后面加个t)" data-id="section11" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| light  | lit | lit | 点燃 | |
+| burn  | burnt | burnt | 着火 | |
+| mean  | meant | meant | 意思是 | |
+| learn  | learnt | learnt | 学习 | |
+| dream  | dreamt | dreamt | 做梦 | |
+| deal  | dealt | dealt | 处理,发牌; 非法买卖毒品; 贩毒 | |
+<!--endsec-->
+
+<!--sec data-title="听见“过分”直接加个d, 制造是k变d" data-id="section12" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| hear  | heard | heard | 听见 | |
+| make  | made | made | 制造 | |
+<!--endsec-->
+
+<!--sec data-title="一只下蛋的鹅说：“赶快付钱” (ay变成aid)" data-id="section13" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| lay  | laid | laid | 放，搁 | |
+| say  | said | said | 说，讲 | |
+| pay  | paid | paid | 付报酬 | |
+<!--endsec-->
+
+<!--sec data-title="照耀赢了，i变o，`发现`i变为ou" data-id="section14" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| shine  | shone | shone | 照耀 | |
+| win  | won | won | 赢 | |
+| find  | found | found | 发现 | |
+<!--endsec-->
+
+<!--sec data-title="站立理解an变为oo" data-id="section15" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| stand  | stood | stood | 站立/忍受/坐落 | |
+| understand  | understood | understood | 理解 | |
+<!--endsec-->
+
+<!--sec data-title="告诉卖,ell变old" data-id="section16" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| tell  | told | told | 告诉 | |
+| sell  | sold | sold | 卖 | |
+<!--endsec-->
+
+<!--sec data-title="得到握住e,o互换，have的ve变为d, leave的ave变为ft" data-id="section17" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| get  | got | got | 成为/得到/到达 | |
+| hold  | held | held | 握，抓住 | |
+| have  | had | had | 有/吃/进行 | |
+| leave  | left | left | 离开/遗留/剩下 | |
+<!--endsec-->
+
+## ABC型
 
 <!-- 
 
-口诀5：
-
-想带来买（个人来）打架，无a则o,ought(4个单词）
-
-原形→ought →ought
-
-原形 过去式 过去分词 汉语意思
-
-bring broughtbrought 带来
-
-buy bought bought 买
-
-fight fought fought 打架
-
-think thought thought 思考
-
-口诀6：
-
-加速射击喂牛遇见领导，“过分”后一个元音字母去掉
-
-了。（“过分”指过去式和过去分词）(5个单词）
-
-speed(加速）---sped--sped
-
-(speed(加速）---speeded--speeded)
-
-shoot(射击)---shot--shot
-
-feed（喂养，饲养---fed---fed
-
-meet（遇见）---met---met
-
-lead(带路，领路--led---led
-
-口诀7：
-
-坐下临时照看（想）吐痰，“过分”i变a。(3个单词）
-
-sit(坐)---sat---sat,
-
-babysit(代人临时照顾婴孩）---babysat---babysat
-
-spit（吐痰）---spat---spat
-
-口诀8：
-
-挖刺（粘贴）悬挂，原形中间的元音字母变成u。（3个单词）
-
-dig（挖）---dug---dug,
-
-hang（悬挂）---hung---hung,
-
-stick（粘贴，将……刺入）---stuck---stuck
-
-口诀9：
-
-①（清洁工）睡觉（时还）保持打扫（的）感觉（却）睡过头（eep,eel中间去个e末尾加个t）（5个单词）
-
-②我觉（feel）得，卫生靠平时保持（keep），睡觉（sleep）时就不要想着扫（sweep）地了，可以睡过头（oversleep)。
-
-feel(觉)---felt---felt
-
-keep(保存)---kept---kept
-
-sleep（睡）---slept---slept
-
-oversleep（睡过头）---overslept---overslept
-
-sweep(扫)---swept---swept
-
-口诀10：
-
-①建造借出送花费，“过分”都是原形末尾的d变t。（4个单词）②我花钱（spend）建造（build）的房子，可以借（lend）给你 ，不能送（send）给你。
-
-build(造)---built---built
-
-lend（借）---lent---lent
-
-send（邮寄，发送）---sent---sent
-
-spend（花费）---spent---spent
-
-口诀11：
-
-丢失闻拼写原形末尾的字母换成t。（3个单词）
-
-lose（丢失）---lost---lost
-
-smell（嗅）---smelt--smelt
-
-spell(拼写)---spelt---spelt
-
-口诀12：
-
-①梦见着火学习对付意思，“过分”原形后面加个t，梦见着火学习点燃也可以加ed。(6个单词）②“‘燃烧’（burn）意思是（mean）什么？”我没有学会（learn），我做梦（dream）了，该怎么对付（deal)
-
-burn(着火)---burnt---burnt,
-
-dream（做梦）---dreamt---dreamt,
-
-learn(学习)---learnt---learnt,
-
-deal(对付）---dealt---dealt
-
-mean（意思是）---meant---meant
-
-light（点燃）---lighted/---lighted,
-
-light（点燃）---lit/---lit,
-
-口诀13：
-
-听见“过分”直接加个d, 制造是k变d。（2个单词）
-
-hear(听见）---heard---heard
-
-make(制造）---made---made
-
-口诀14
-
-①放置（产卵）说付钱，ay变成aid。（3个单词）
-
-②一只下蛋（lay）的鹅说（say）：“赶快付钱（pay）”。
-
-lay（放，搁）---laid---laid,
-
-pay（付报酬）---paid---paid,
-
-say（说，讲）---said---said
-
-口诀15：
-
-照耀赢了，i变o，发现i变为ou。(3个单词）
-
-shine(照耀)---shone---shone
-
-win(赢)---won---won,
-
-find(发现）---found---found
-
-口诀16：
-
-①站立理解an变为oo。（2个单词）②站（stand）着就听明白（understand）了。
-
-stand(站立/忍受/坐落)---stood---stood,
-
-understand（理解）---understood---understood
-
-口诀17：
-
-①告诉卖（老头）ell变old。（2个单词）②告诉（tell）他不要卖（sell）那个老古董。
-
-sell（卖）---sold---sold
-
-tell(告诉)---told---told
-
-口诀18：
-
-得到握住e,o互换，have的ve变为d, leave的ave变为ft。（4个单词）
-
-get(成为/得到/到达)---got---got
-
-hold（握，抓住）---held---held
-
-have（有/吃/进行）---had---had
-
-leave（离开/遗留/剩下）---left---left
 
 ABC型：即原型、过去式和过去分词不相同
 
