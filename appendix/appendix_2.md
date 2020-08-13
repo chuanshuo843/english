@@ -1,82 +1,65 @@
 # 不规则动词
 
-1. AAA型
+## AAA型
+<!--sec data-title="2H（hit, hurt)花钱(cost)让(let)3S(set,shut,spread)放(put)（下）读书(read)（去）切割（cut)" data-id="section0" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| hit  | hit | hit | 撞，击((用手或器具) 击，打; 碰撞; 撞击(造成损伤); 使(身体部位)碰上(某物)) |<audio id="audio" controls="controls" preload="none"><source src="audio/appendixes-audio-2/2.4_5_elem_murph.mp3"></audio> |
+| hurt  | hurt | hurt | 使…伤痛((使) 疼痛，受伤; 感到疼痛; 使不快; 使烦恼;) |<audio id="audio" controls="controls" preload="none"><source src="audio/appendixes-audio-2/2.4_7_elem_murph.mp3"></audio> |
+| cost  | cost | cost | 花费，值(费用; 花费; 价钱; 成本; (为做某事涉及的) 努力，代价，损失;) | |
+| let  | let | let | 让(允许; 让; 准许; 许可; 同意; 允许(去某处);) | |
+| shut  | shut | shut | 关闭(关闭; 关上; 合上; (使) 停止营业，关门，打烊;) | |
+| spread  | spread | spread | 传播，散布(展开; 打开; 摊开; 使散开; 张开; 伸开;) | |
+| set  | set | set | 安排，安置(放; 置; 使处于; 使处于某种状况; 使开始; 把故事情节安排在; 以…为…设置背景;) | |
+| put  | put | put | 放(放; 安置; 猛推; 用力插入; 将…送往; 使…前往) | |
+| read  | read | read | 读(识字; 阅读; 读懂; 读; 朗读; 读到; 查阅到;) | |
+| cut  | cut | cut | 切，割(割破;划破;(用刀等从某物上)切下，割下;(用刀等将某物)切成，割成) | |
+>[!TIP]
+>read 发音分别是：[ri:d]---[red]---[red]
+<!--endsec-->
 
-> 2H（hit, hurt)花钱(cost)让(let)3S(set,shut,spread)放(put)（下）读书(read)（去）切割（cut)
+## AAB型
+<!--sec data-title="打败天下无敌手，分词加en" data-id="section1" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| beat  | beat | beaten | 打败((在比赛或竞争中)赢，打败(某人);控制;难倒) | |
+<!--endsec-->
+
+## ABA型
+<!--sec data-title="跑、来、成为、杨超越,过去式的元音字母变成a" data-id="section2" data-show=true ces-->
+>[!TIP]
+>元音字母分别为:[a,e,i,o,u]
 
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| hit  | hit | hit | 撞，击 |<audio id="audio" controls="" preload="none"><source src="audio/appendixes-audio-2/2.4_5_elem_murph.mp3"></audio> |
+| run  | ran | run | 跑(跑; 奔跑; 跑(某段距离); 跑步; 做跑步运动;) | |
+|  come  | came | come |  来(来; 来到; 到达，抵达(某地); 来做; 来取; 来拿) | |
+| become  | became | become | 成为(开始变得; 变成; 适合(某人); 与…相称; 使(人)显得漂亮; 使好看;) | |
+| overcome  | overcame | overcome | 超越(克服; 解决; 战胜; 受到…的极大影响) | |
+<!--endsec-->
+
+## ABB型
+<!--sec data-title="教书被抓，有a则a, aught" data-id="section3" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| teach  | taught | taught | 教 | |
+|  catch  | caught | caught |  捉,抓 | |
+<!--endsec-->
+
+
+<!--sec data-title="想带来买（个）打架，无a则o, ought" data-id="section4" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| teach  | taught | taught | 教 | |
+|  catch  | caught | caught |  捉,抓 | |
+<!--endsec-->
+
+
 <!-- 
-AAA型（原形→原形→原形）
-
-原形　过去式 过去分词　汉语意思
-
-cost cost cost花费，值
-
-cut　cut cut切，割
-
-hit　hit hit撞，击
-
-hurt hurt hurt使…伤痛
-
-let　let let让
-
-putput put放
-
-read read read读
-
-set　set set安排，安置
-
-shut shut shut 关闭
-
-spread spread spread 传播，散布
-
-注意：read ---read--- read发音分别是：[ri:d]---[red]---[red]
-
-AAB型：即原型和过去式相同
-
-口诀2：
-
-打败天下无敌手，分加en（1个单词）
-
-原形 过去式 过去分词 汉语意思
-
-beatbeatbeaten 打败
-
-ABA型：即原型和过去分词相同
-
-口诀3：
-
-跑、来、成为、超越，元音字母变成a（4个单词）
-
-原形 过去式 过去分词 汉语意思
-
-become became become 成为
-
-come came come 来
-
-run ran run 跑
-
-overcomeovercameovercome超越
-
-ABB型：即过去式和过去分词相同
-
-口诀4：
-
-教书被抓，有a则a,　aught(2个单词）
-
-原形→aught →aught
-
-原形 过去式 过去分词汉语意思
-
-catchcaught caught 捉,抓
-
-teachtaught taught 教
 
 口诀5：
 
-想带来买（个）打架，无a则o,ought(4个单词）
+想带来买（个人来）打架，无a则o,ought(4个单词）
 
 原形→ought →ought
 

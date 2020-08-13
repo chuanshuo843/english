@@ -26,11 +26,19 @@
         "pageview-count",
         "auto-scroll-table",
         "flexible-alerts",
-        "emphasize"
+        "emphasize",
+        "sectionx",
+        "popup",
+        "click-reveal",
+        "chapter-fold",
+        "ancre-navigation"
     ],
     "pluginsConfig": {
         "code": {
             "copyButtons": false
-        }
+        },
+        "sectionx": {
+	      "tag": "b"
+	    }
     }
 }
