@@ -170,44 +170,30 @@
 
 ## ABC型
 
+<!--sec data-title="游泳喝酒唱歌开始打电话（谁知）下沉了。i-a-u(原形中含有字母i，在过去式中变为a，在过去分词中变为u。)" data-id="section18" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| begin  | began | begun | 开始，着手 | |
+| drink  | drank | drunk | 喝，饮 | |
+| ring  | rang | rung | 响铃/打电话 | |
+| sing  | sang | sung | 唱歌 | |
+| sink  | sank | sunk | 下沉 | |
+| swim  | swam | swum | 游泳 | |
+<!--endsec-->
+
+<!--sec data-title="长大后才知道,不要乱扔,乱吹,乱画,(过变ew,分加n(以字母ow或aw结尾的动词，在过去式中变成ew，过去分词则在原形后加-n。）)" data-id="section19" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| blow  | blew | blown | 刮风 | |
+| grow  | grew | grown | 成长/种植 | |
+| know  | knew | known | 知道 | |
+| throw  | threw | thrown | 投 | |
+| draw  | drew | drawn | 绘画 | |
+| fly  | flew | flown | 飞 | |
+<!--endsec-->
+
 <!-- 
 
-
-ABC型：即原型、过去式和过去分词不相同
-
-口诀19：
-
-①游泳喝酒唱歌开始打电话（谁知）下沉了。i---a---u(原形中含有字母i，在过去式中变为a，在过去分词中变为u。)（6个单词）②铃响（ring）后，开始（begin）唱歌（sing），游泳（swim）时，不要喝（drink）太多的水,否则会下沉（sink）的。
-
-begin（开始，着手）---began---begun
-
-drink（喝，饮）---drank---drunk
-
-ring（响铃/打电话）---rang---rung
-
-sing（唱歌）---sang---sung
-
-sink（下沉）---sank---sunk
-
-swim（游泳）---swam---swum
-
-口诀20：
-
-①长大后画画知道扔吹飞，过变ew,分加n(以字母ow或aw结尾的动词，在过去式中变成ew，过去分词则在原形后加-n。）（6个单词）②长（grow）大后，才知道（know）,不要乱扔（throw）乱吹（blow）乱画（draw）。
-
-blow(刮风)---blew---blown
-
-grow(成长/种植)---grew---grown
-
-know（知道）---knew---known
-
-throw（投）---threw---thrown
-
-draw（绘画）---drew---drawn
-
-fly(飞)---flew---flown
-
-注意：飞
 
 口诀21：
 
