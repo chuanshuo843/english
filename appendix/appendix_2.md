@@ -6,14 +6,14 @@
 | :----: | :----: | :----: | :----: |
 | hit  | hit | hit | 撞，击 |<audio controls><source src="audio/appendixes-2/2.4_5_elem_murph.mp3"></audio> |
 | hurt  | hurt | hurt | 使…伤痛 |<audio controls><source src="audio/appendixes-2/2.4_7_elem_murph.mp3"></audio> |
-| cost  | cost | cost | 花费，值 |<audio controls><source src="audio/appendixes-2/2.4_4_elem_murph.mp3"></audio> |
+| cost  | cost | cost | 花费，值 |<audio controls><source src="audio/appendixes-2/2.2_4_elem_murph.mp3"></audio> |
 | let  | let | let | 让 |<audio controls><source src="audio/appendixes-2/2.5_3_elem_murph.mp3"></audio> |
 | shut  | shut | shut | 关闭 |<audio controls><source src="audio/appendixes-2/2.7_2_elem_murph.mp3"></audio> |
 | spread  | spread | spread | 传播，散布|<audio controls><source src="https://dict.youdao.com/dictvoice?audio=spread&type=2"></audio> |
 | set  | set | set | 安排，安置 |<audio controls><source src="https://dict.youdao.com/dictvoice?audio=set&type=2"></audio>|
 | put  | put | put | 放 |<audio controls><source src="audio/appendixes-2/2.5_11_elem_murph.mp3"></audio>|
 | read  | read | read | 读 |<audio controls><source src="audio/appendixes-2/2.6_1_elem_murph.mp3"></audio>|
-| cut  | cut | cut | 切，割 |<audio controls><source src="audio/appendixes-2/2.4_5_elem_murph.mp3"></audio>|
+| cut  | cut | cut | 切，割 |<audio controls><source src="audio/appendixes-2/2.2_5_elem_murph.mp3"></audio>|
 >[!TIP]
 >read 发音分别是：[ri:d]---[red]---[red]
 <!--endsec-->
@@ -22,7 +22,7 @@
 <!--sec data-title="打败天下无敌手，分词加en" data-id="section1" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| beat  | beat | beaten | 打败 | |
+| beat  | beat | beaten | 打败 |<audio controls><source src="audio/appendixes-2/2.1_2_elem_murph.mp3">|
 <!--endsec-->
 
 ## ABA型
@@ -32,28 +32,28 @@
 
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| run  | ran | run | 跑 | |
-|  come  | came | come |  来 | |
-| become  | became | become | 成为 | |
-| overcome  | overcame | overcome | 超越 | |
+| run  | ran | run | 跑 |<audio controls><source src="audio/appendixes-2/2.6_5_elem_murph.mp3">|
+|  come  | came | come |  来 |<audio controls><source src="audio/appendixes-2/2.2_3_elem_murph.mp3"></audio>|
+| become  | became | become | 成为 |<audio controls><source src="audio/appendixes-2/2.1_3_elem_murph.mp3"></audio>|
+| overcome  | overcame | overcome | 超越 |<audio controls><source src="https://dict.youdao.com/dictvoice?audio=overcameovercame&type=2"></audio>|
 <!--endsec-->
 
 ## ABB型
 <!--sec data-title="教书被抓，有a则a, aught" data-id="section3" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| teach  | taught | taught | 教 | |
-|  catch  | caught | caught |  捉,抓 | |
+| teach  | taught | taught | 教 |<audio controls><source src="audio/appendixes-2/2.8_2_elem_murph.mp3"></audio>|
+|  catch  | caught | caught |  捉,抓 |<audio controls><source src="audio/appendixes-2/2.2_1_elem_murph.mp3"></audio>|
 <!--endsec-->
 
 
 <!--sec data-title="带来(了钱)想买(个东西去)打架，无a则o, ought" data-id="section4" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| bring  | brought | brought | 带来 | |
-|  think  | thought | thought |  思考 | |
-|  buy  | bought | bought |  买 | |
-|  fight  | fought | fought |  打架 | |
+| bring  | brought | brought | 带来 |<audio controls><source src="audio/appendixes-2/2.1_8_elem_murph.mp3"></audio>|
+|  think  | thought | thought |  思考 |<audio controls><source src="audio/appendixes-2/2.8_5_elem_murph.mp3"></audio>|
+|  buy  | bought | bought |  买 |<audio controls><source src="audio/appendixes-2/2.2_10_elem_murph.mp3"></audio>|
+|  fight  | fought | fought |  打架 |<audio controls><source src="audio/appendixes-2/2.3_3_elem_murph.mp3"></audio>|
 <!--endsec-->
 
 <!--sec data-title="加速射击遇见(了)喂牛领导，“过去时&分词”后一个元音字母去掉" data-id="section5" data-show=true ces-->
@@ -62,9 +62,9 @@
 
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| speed  | sped | sped | 加速 | |
-| shoot  | shot | shot | 射击 | |
-| meet  | met | met | 遇见 | |
+| speed  | sped | sped | 加速 |<audio controls><source src="https://dict.youdao.com/dictvoice?audio=speed&type=2"></audio>|
+| shoot  | shot | shot | 射击 |<audio controls><source src="audio/appendixes-2/2.6_11_elem_murph.mp3"></audio>|
+| meet  | met | met | 遇见 |<audio controls><source src="audio/appendixes-2/2.5_9_elem_murph.mp3"></audio>|
 | feed  | fed | fed | 喂养，饲养 | |
 | lead  | lead | lead | 带路，领路 | |
 <!--endsec-->
@@ -134,7 +134,7 @@
 | :----: | :----: | :----: | :----: |
 | lay  | laid | laid | 放，搁 | |
 | say  | said | said | 说，讲 | |
-| pay  | paid | paid | 付报酬 | |
+| pay  | paid | paid | 付报酬 |<audio controls><source src="audio/appendixes-2/2.5_10_elem_murph.mp3"></audio>|
 <!--endsec-->
 
 <!--sec data-title="照耀赢了，i变o，`发现`i变为ou" data-id="section14" data-show=true ces-->
