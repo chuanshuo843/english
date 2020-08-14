@@ -192,95 +192,73 @@
 | fly  | flew | flown | 飞 | |
 <!--endsec-->
 
-<!-- 
+<!--sec data-title="生育穿戴，原形-ear，过去式-ore，过去分词-orn" data-id="section20" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| bear  | bore | born | 生育 | |
+| wear  | wore | worn | 穿 | |
+<!--endsec-->
 
+<!--sec data-title="偷盗醒来结冰打破选择说忘记，过去元音变成o,偷盗打破说未成还要e尾随，分词“过”后加n" data-id="section21" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| break  | broke | broken | 打破 | |
+| choose  | chose | chosen | 选择 | |
+| freeze  | froze | frozen | 结冰 | |
+| speak  | spoke | spoken | 说 | |
+| forget  | forgot | forgotten | 忘记 | |
+| steal  | stole | stolen | 偷盗 | |
+| wake  | woke | woken | 醒来 | |
 
-口诀21：
+>[!TIP]
+>忘记(forget)的分词要双写t
 
-生育穿戴，ear过变ore,分变orn(原形-ear，过去式-ore，过去分词-orn。)(2个单词）
+<!--endsec-->
 
-bear（生育）---bore---born
+<!--sec data-title="升起驾驶骑车写字,过i变o（眼睁大），分加en, 注意骑车写字双写辅音（d和t)" data-id="section22" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| rise  | rose | risen | 升起/出现 | |
+| drive  | drove | driven | 驾驶/驱赶 | |
+| ride  | rode | ridden | 骑 | |
+| write  | wrote | written | 写 | |
+<!--endsec-->
 
-wear（穿）---wore---worn
+<!--sec data-title="规则的撒谎，不规则的躺，躺下就下蛋，下蛋不规则。" data-id="section23" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| lie  | lay | lain | 躺/平放/位于 | |
+| lie  | lied | lied | 撒谎、说谎 | |
+| lay  | laid | laid |放置，产卵，下蛋 | |
+<!--endsec-->
 
-口诀22：
+<!--sec data-title="是给吃看见落下，隐藏弄错摇动拿，分词结尾是en" data-id="section24" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| be  | was/were | been | 是 | |
+| give  | gave | given | 给 | |
+| eat  | ate | eaten | 吃 | |
+| see  | saw | seen | 看见 | |
+| fall  | fell | fallen | 落下 | |
+| hide  | hid | hidden | 隐藏 | |
+| mistake  | mistook | mistaken | 弄错 | |
+| shake  | shook | shaken | 摇动 | |
+| take  | took | taken | 拿 | |
+<!--endsec-->
 
-偷盗醒来结冰打破选择说忘记，过去元音变成o,偷盗打破说未成还要e尾随，分词“过”后加n。（7个单词）
+<!--sec data-title="其他变化形式" data-id="section25" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| do  | did | done | 做/干 | |
+| go  | went | gone | 去/到达 | |
+| show  | showed | shown | 出示 | |
+<!--endsec-->
 
-break（打破）---broke---broken,
-
-choose（选择）---chose---chosen,
-
-freeze（结冰）---froze---frozen,
-
-speak(说)---spoke---spoken,
-
-forget(忘记)---forgot---forgotten,
-
-steal（偷盗）---stole---stolen,
-
-wake(醒来)---woke---woken,
-
-注意：忘记分词要双写t
-
-口诀23：
-
-升起驾驶骑车写字,过i变o（眼睁大），分加en, 注意骑车写字双写辅音（d和t)。（4个单词）
-
-rise(升起/出现)---rose----risen
-
-drive（驾驶/驱赶）---drove---driven
-
-ride(骑)---rode---ridden
-
-write(写)---wrote---written
-
-口诀24：
-
-规则的撒谎，不规则的躺，躺下就下蛋，下蛋不规则。（3个单词）
-
-lie（躺/平放/位于）---lay---lain,
-
-lie (撒谎、说谎)---lied---lied
-
-lay (放置，产卵，下蛋)---laid---laid
-
-口诀25：
-
-是给吃看见落下，隐藏弄错摇动拿，分词结尾是en。(9个单词）
-
-be(是)---was/were---been
-
-give（给）---gave---given
-
-eat(吃)---ate---eaten
-
-see（看见）---saw---seen
-
-fall(落下)---fell---fallen
-
-hide(隐藏)---hid---hidden
-
-mistake（弄错）---mistook---mistaken
-
-shake（摇动）---shook---shaken
-
-take(拿)---took---taken
-
-口诀26：其他变化形式（3个）
-
-do, did, done, go, went, gone, 我们常常见；show,showed,shown展示看
-
-do（做/干）---did---done
-
-go（去/到达）---went---gone
-
-show(出示)---showed---shown
-
-没有过去分词的动词（情态动词）
-
-口诀27：
-
-can（能/可能）---could,may（可以/可能）---might
-
-shall(将/会)---should,will(将/愿意)---would -->
+<!--sec data-title="没有过去分词的动词" data-id="section26" data-show=true ces-->
+|  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
+| :----: | :----: | :----: | :----: |
+| can  | could |  | 能/可能 | |
+| may  | might |  | 可以/可能 | |
+| shall  | should |  | 将/会 | | 
+| will  | would |  | 将/愿意 | |
+<!--endsec-->
