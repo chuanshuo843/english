@@ -28,10 +28,10 @@
         "flexible-alerts",
         "emphasize",
         "sectionx",
-        "popup",
         "click-reveal",
         "chapter-fold",
-        "ancre-navigation"
+        "ancre-navigation",
+        "lightbox"
     ],
     "pluginsConfig": {
         "code": {
@@ -39,6 +39,10 @@
         },
         "sectionx": {
 	      "tag": "b"
-	    }
+	    },
+        "lightbox": {
+            "sameUuid": true,
+            "resizeDuration": 200
+        }
     }
 }

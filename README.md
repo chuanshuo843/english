@@ -18,12 +18,12 @@
 <button class="section" target="section1" show="显示下一部分" hide="隐藏下一部分"></button>
 <!--endsec-->
 
-<!--sec data-title="标题2" data-id="section1" data-show=true ces-->
+<!--sec data-title="标题2" data-id="section1" data-show=false ces-->
 内容部分2
 <!--endsec-->
 
 <button class="section" target="section2" show="显示模块2" hide="隐藏模块2"></button>
-<!--sec data-title="模块2" data-id="section2" data-show=true ces-->
+<!--sec data-title="模块2" data-id="section2" data-show=false ces-->
 内容部分2
 <!--endsec-->
 
