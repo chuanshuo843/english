@@ -4,16 +4,16 @@
 <!--sec data-title="2H花钱让3S放下读书去切割" data-id="section0" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| hit  | hit | hit | 撞，击((用手或器具) 击，打; 碰撞; 撞击(造成损伤); 使(身体部位)碰上(某物)) |<audio id="audio" controls="controls" preload="none"><source src="audio/appendixes-audio-2/2.4_5_elem_murph.mp3"></audio> |
-| hurt  | hurt | hurt | 使…伤痛((使) 疼痛，受伤; 感到疼痛; 使不快; 使烦恼;) |<audio id="audio" controls="controls" preload="none"><source src="audio/appendixes-audio-2/2.4_7_elem_murph.mp3"></audio> |
-| cost  | cost | cost | 花费，值(费用; 花费; 价钱; 成本; (为做某事涉及的) 努力，代价，损失;) | |
-| let  | let | let | 让(允许; 让; 准许; 许可; 同意; 允许(去某处);) | |
-| shut  | shut | shut | 关闭(关闭; 关上; 合上; (使) 停止营业，关门，打烊;) | |
-| spread  | spread | spread | 传播，散布(展开; 打开; 摊开; 使散开; 张开; 伸开;) | |
-| set  | set | set | 安排，安置(放; 置; 使处于; 使处于某种状况; 使开始; 把故事情节安排在; 以…为…设置背景;) | |
-| put  | put | put | 放(放; 安置; 猛推; 用力插入; 将…送往; 使…前往) | |
-| read  | read | read | 读(识字; 阅读; 读懂; 读; 朗读; 读到; 查阅到;) | |
-| cut  | cut | cut | 切，割(割破;划破;(用刀等从某物上)切下，割下;(用刀等将某物)切成，割成) | |
+| hit  | hit | hit | 撞，击 |<audio controls><source src="audio/appendixes-2/2.4_5_elem_murph.mp3"></audio> |
+| hurt  | hurt | hurt | 使…伤痛 |<audio controls><source src="audio/appendixes-2/2.4_7_elem_murph.mp3"></audio> |
+| cost  | cost | cost | 花费，值 |<audio controls><source src="audio/appendixes-2/2.4_4_elem_murph.mp3"></audio> |
+| let  | let | let | 让 |<audio controls><source src="audio/appendixes-2/2.5_3_elem_murph.mp3"></audio> |
+| shut  | shut | shut | 关闭 |<audio controls><source src="audio/appendixes-2/2.7_2_elem_murph.mp3"></audio> |
+| spread  | spread | spread | 传播，散布|<audio controls><source src="https://dict.youdao.com/dictvoice?audio=spread&type=2"></audio> |
+| set  | set | set | 安排，安置 |<audio controls><source src="https://dict.youdao.com/dictvoice?audio=set&type=2"></audio>|
+| put  | put | put | 放 |<audio controls><source src="audio/appendixes-2/2.5_11_elem_murph.mp3"></audio>|
+| read  | read | read | 读 |<audio controls><source src="audio/appendixes-2/2.6_1_elem_murph.mp3"></audio>|
+| cut  | cut | cut | 切，割 |<audio controls><source src="audio/appendixes-2/2.4_5_elem_murph.mp3"></audio>|
 >[!TIP]
 >read 发音分别是：[ri:d]---[red]---[red]
 <!--endsec-->
@@ -22,7 +22,7 @@
 <!--sec data-title="打败天下无敌手，分词加en" data-id="section1" data-show=true ces-->
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| beat  | beat | beaten | 打败((在比赛或竞争中)赢，打败(某人);控制;难倒) | |
+| beat  | beat | beaten | 打败 | |
 <!--endsec-->
 
 ## ABA型
@@ -32,10 +32,10 @@
 
 |  原形  | 过去式  | 过去分词  | 汉语意思  | 读音  |
 | :----: | :----: | :----: | :----: |
-| run  | ran | run | 跑(跑; 奔跑; 跑(某段距离); 跑步; 做跑步运动;) | |
-|  come  | came | come |  来(来; 来到; 到达，抵达(某地); 来做; 来取; 来拿) | |
-| become  | became | become | 成为(开始变得; 变成; 适合(某人); 与…相称; 使(人)显得漂亮; 使好看;) | |
-| overcome  | overcame | overcome | 超越(克服; 解决; 战胜; 受到…的极大影响) | |
+| run  | ran | run | 跑 | |
+|  come  | came | come |  来 | |
+| become  | became | become | 成为 | |
+| overcome  | overcame | overcome | 超越 | |
 <!--endsec-->
 
 ## ABB型
