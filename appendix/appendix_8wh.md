@@ -55,7 +55,7 @@
 * whose bag is this?  这是谁的包？ 
 * whose bike is yellow?   谁的自行车是黄色的？
 
-## whic 哪一个
+## which 哪一个
 
 >用来问具体的哪一个
 
