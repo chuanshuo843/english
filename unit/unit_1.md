@@ -8,11 +8,11 @@
 ![text book](images/1_unit.png)
 
 ## exercise
-![text book](images/1_exercises.png)
+![exercise](images/1_exercises.png)
 
 ## exercise answers
 {% reveal text="查看答案" %}
-![text book](images/1_exercises.png)
+![answers](images/1_exercises_answers.png)
 {% endreveal %}
 
 
