@@ -3,6 +3,13 @@
 >[!TIP]
 >元音字母分别为:[a,e,i,o,u]
 
+## 不能加ing的单词
+
+```
+like, want, know, understand, remember
+prefer, need, mean, believe, forget
+```
+
 ## 普通形式
 > 英语动词加-ing ，通常是在原形词尾直接加-ing
 
